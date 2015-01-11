@@ -18,6 +18,7 @@
 
     <modules>
         <module>factory-method</module>
+        <module>spring-boot-plain-hibernate</module>
     </modules>
 
     <repositories>
