@@ -1,0 +1,4 @@
+CREATE TABLE orders (
+  id     CHAR(36) PRIMARY KEY,
+  amount DECIMAL NOT NULL
+);
